@@ -45,12 +45,14 @@ Se utilizó el siguiente diseño (diagrama incluido):
 ### 1. Iniciar servidor
 ```bash
 python server.py
+```
 
 ---
 
 ### 2. Ejecutar cliente
 ```bash
 python client.py
+```
 
 ---
 
